@@ -1,0 +1,16 @@
+{
+	"token": "Bot token as provided by Discord",
+	"clientId": "Client ID as provided by Discord",
+	"command1Guilds": [
+		{
+			"name": "A guild name",
+			"id": "the guild id"
+		}
+	],
+	"command2Guilds": [
+		{
+			"name": "A guild name",
+			"id": "the guild id"
+		}
+	]
+}
